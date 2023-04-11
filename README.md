@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Ganesh Narayane</h1>
-<h3 align="center">I'm Prathamesh Narayane 😀 and currently pursuing my engineering in the field of Computer Science 👨‍💻 .The best part about me is that I am eager to learn.Although sometimes feel frustrated on not getting appropriate results ,but that motivates me to even work harder 🔥.I have experience in programming language like Java. I'm a full stack NodeJs developer,stepping in React development....In some parallel world I'm a gym bunny💪..❤ coffee ☕</h3>
+<h3 align="center">I'm Prathamesh Narayane 😀 and  👨‍💻 .The best part about me is that I am eager to learn.Although sometimes feel frustrated on not getting appropriate results ,but that motivates me to even work harder 🔥.I have experience in programming language like Java. I'm a full stack NodeJs developer,stepping in React development....In some parallel world I'm a gym bunny💪..❤ coffee ☕</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh-narayane&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-narayane" /> </p>
 
